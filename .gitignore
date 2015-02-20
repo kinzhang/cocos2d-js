@@ -1,3 +1,6 @@
+# ignore download zip
+*.zip
+
 # Ignore thumbnails created by windows
 Thumbs.db
 
