@@ -1,3 +1,7 @@
+# ignore download zip
+*.zip
+/tools/cocos2d-console
+
 # Ignore thumbnails created by windows
 Thumbs.db
 
